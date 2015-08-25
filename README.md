@@ -4,12 +4,12 @@ A packet radio demodulator designed to work with rtl_fm
 TODO
 ====
 
-o Finish the framer
-o Extract frame meta data
-o Detect and handle loss of carrier
-o Accept sample rate and format parameters on the command line
-o Accept samples via STDIN from rtl_fm
-o Use a Makefile for building
+- [ ] Finish the framer
+- [ ] Extract frame meta data
+- [ ] Detect and handle loss of carrier
+- [ ] Accept sample rate and format parameters on the command line
+- [ ] Accept samples via STDIN from rtl_fm
+- [ ] Use a Makefile for building
 
 Building
 ========
